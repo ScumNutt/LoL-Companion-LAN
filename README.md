@@ -108,8 +108,6 @@ For technical details see:
 
 If you enjoy the project and want to support development:
 
-☕ Ko-fi:
-ko-fi.com/scumnutt
 ---
 
 ## Questions & Feedback
