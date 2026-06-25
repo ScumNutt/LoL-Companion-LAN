@@ -100,7 +100,6 @@ The application:
 For technical details see:
 
 - `/docs/Technical-Overview.md`
-- `/docs/Architecture.md`
 - `/docs/Security.md`
 
 ---
